@@ -5,8 +5,8 @@
     background-color: black;
 }
 #field{
-    width: 80vw;
-    height: 100vh;
+    width: 600px;
+    height: 600px;
     left:0;
 }
 #preview{
