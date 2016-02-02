@@ -1,3 +1,7 @@
+Meteor.startup(function(){
+   Meteor.subscribe('blocks');
+});
+
 Template.field.onRendered(function () {
     var field = document.getElementById('field'),
         preview = document.getElementById('preview');

@@ -1,16 +1,7 @@
 /* CSS declarations go here */
-#field, #preview {
-    position: absolute;
-    top:0;
+#field{
     background-color: black;
 }
-#field{
-    width: 600px;
-    height: 600px;
-    left:0;
-}
 #preview{
-    width: 20vw;
-    height: 20vh;
-    right: 0;
+
 }
